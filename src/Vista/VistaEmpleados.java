@@ -1,18 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
- */
 package Vista;
+
 import Controlador.EmpleadoControlador;
 import Modelo.Empleado;
 import java.util.List;
 import javax.swing.table.DefaultTableModel;
 import java.util.Date;
 import javax.swing.JTextField;
-/**
- *
- * @author COMPHP
- */
+
+
 public class VistaEmpleados extends javax.swing.JPanel {
     
     private final EmpleadoControlador empleadoControlador;
